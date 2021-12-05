@@ -1,0 +1,30 @@
+body {
+    background-color:lightgreen;
+}
+
+.header_div {
+    color: brown;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20;
+}
+.header_div p{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20;
+}
+
+.main_div button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+}
+
+.cp_footer {
+    background-color: aqua;
+    text-align: center;
+    padding-top:  10px;
+    padding-bottom: 10px ;
+    text-shadow:10px 10px 10px;
+}
